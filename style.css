@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.dif-style{
+    font-family: 'Orelega One', cursive;   
+    font-size: 200%;
+}
+.first-sec{
+    display:flex;
+    padding: 70px 70px;
+}
+.marg{
+    margin: 20px;
+}
+.border-clr{
+    border-left: 3px solid;
+    border-color:crimson ;
+    border-radius: 4px 4px;
+}
+.hadding-pad{
+    margin-left: 15px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,orange);
+    padding: 10px 30px;
+    color: cornsilk;
+    font-weight:600;
+    border-radius: 5px;
+
+}
