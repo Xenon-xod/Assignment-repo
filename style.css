@@ -5,10 +5,14 @@ body{
     font-family: 'Orelega One', cursive;   
     font-size: 200%;
 }
+#color-head {
+    color: tomato;
+}
 .first-sec{
     display:flex;
     padding: 70px 70px;
     margin-bottom: 100px;
+    margin-left: 25px;
 }
 .border-clr{
     border-left: 3px solid;
@@ -28,20 +32,29 @@ body{
 }
 .mission-head{
     text-align: center;
-    font: 500;
+    font-size: 50px;
     font-weight: 700;
+    color:teal;
+}
+#new-color{
+    color: rgb(18, 59, 59);
 }
 .second-sec{
     display: flex;
     padding: 20px 100px 100px;
 }
 .second-sec img{
-    width: 30%;
+    width: 50%;
 }
 .first-indiv{
-    background-color: rgb(211, 222, 243);
+    background-color: rgb(233, 237, 245);
     border-radius: 25px;
     padding: 7px 30px;
-    margin-right: 7%;
-    
+    margin-right: 3%;
+}
+#middle-back{
+    background-color: rgb(252, 232, 232);
+}
+#last-back{
+    background-color: rgb(236, 253, 219);
 }
