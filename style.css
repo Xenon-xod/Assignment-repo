@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 .dif-style{
     font-family: 'Orelega One', cursive;   
@@ -73,11 +74,14 @@ body{
 .last-part{
     padding: 10px 20px;
 }
-footer p{
+footer{
+    background-color: black;
     text-align: center;
-}
-.image-background{
-   background-color: dimgrey;
-   width: 100%;
-   
-}
+    color: tan;
+    font: 500;
+    font-size: 20px;
+    font-family: 'Lobster', cursive;    
+    margin: 0%;
+    padding: 20px 0;
+    display: block;
+    }
