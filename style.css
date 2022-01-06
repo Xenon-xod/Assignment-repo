@@ -58,3 +58,26 @@ body{
 #last-back{
     background-color: rgb(236, 253, 219);
 }
+.secnd-last{
+    display: flex; 
+    margin: 3%;
+    padding: 70px;
+}
+.big-img{
+    width: 350px;
+    height: 350px;
+}
+.almost-last{
+    padding: 30px 60px;
+}
+.last-part{
+    padding: 10px 20px;
+}
+footer p{
+    text-align: center;
+}
+.image-background{
+   background-color: dimgrey;
+   width: 100%;
+   
+}
