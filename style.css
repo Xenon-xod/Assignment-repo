@@ -84,4 +84,20 @@ footer{
     margin: 0%;
     padding: 20px 0;
     display: block;
-    }
+}
+.social-media{
+    width: 450px;
+    height: 450px;
+    padding-left: 40px;
+}
+.text-ali{
+   padding: 60px;
+}
+.addict-site{
+    font-family: monospace;
+    font-size: 30px;
+}
+.effects{
+    text-align: center;
+    margin: 50px;
+}
