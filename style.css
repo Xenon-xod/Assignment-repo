@@ -96,8 +96,10 @@ footer{
 .addict-site{
     font-family: monospace;
     font-size: 30px;
+    color: darkred;
 }
 .effects{
     text-align: center;
     margin: 50px;
+    color: tomato;
 }
